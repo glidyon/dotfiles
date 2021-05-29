@@ -1,1 +1,1 @@
-Repository made mainly for collecting dotfiles for GNU/Linux distributions that I'm using.
+dotfiles for GNU/Linux distributions that i'm using
